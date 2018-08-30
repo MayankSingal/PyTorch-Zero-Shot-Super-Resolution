@@ -12,7 +12,7 @@ Results on some images which have been resized to 2x size are given below.
 The blurry image is the one obtained after bicubic interpolation while the sharper image is the one obtained by this implementation. 
 
 
-![Alt text](images/comic.gif?raw=true "Comic")
+![Alt text](images/Comic.gif?raw=true "Comic")
 
 
 ![Alt text](images/lincoln.gif?raw=true "Lincoln")
