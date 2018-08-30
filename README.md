@@ -8,6 +8,10 @@ Things left to do:
   1. Get results close to the paper
   2. Study effects of non-local networks, other attention based methods on this task.
 
+To run the model, change the path of the image to be resized in enhancer.py. Then run enhancer.py.
+Dependencies:
+PyTorch 0.4 and Python 3.5.
+
 Results on some images which have been resized to 2x size are given below.
 The blurry image is the one obtained after bicubic interpolation while the sharper image is the one obtained by this implementation. 
 
